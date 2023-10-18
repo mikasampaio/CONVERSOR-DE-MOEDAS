@@ -1,7 +1,12 @@
 <h1 align="center">CONVERSOR DE MOEDAS</h1>
 
-<p>Ferramenta que permite saber quanto vale uma quantia de real brasileiro em
-relação ao dólar americano, euro ou bitcoin. Além disso, é um projeto previamente responsivo, ou seja, adapta-se tanto para desktops quanto para smartphones e tablets.</p>
+<p>Desenvolvimento de um conversor de moedas que permite o usuário converter valores de real brasileiro para euro, dólar ou bitcoin em tempo real; </p>
+
+<p>Desenvolver aplicações Front-End, utilizando HTML, CSS e JavaScript; </p>
+
+<p>Integração de API em tempo real que fornece as taxas de câmbio atualizadas; </p>
+
+<p>Os usuários podem inserir o valor em reais, selecionar a moeda de destino (euro, dólar ou bitcoin) e o sistema exibirá o valor convertido instantaneamente com base nas taxas de câmbio atuais.</p>
 
 
 <h3>O projeto foi realizado com as ferramentas:</h3>
